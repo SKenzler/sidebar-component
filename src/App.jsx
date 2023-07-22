@@ -1,11 +1,15 @@
 import { useState } from "react";
+import Sidebar from "./components/sidebar";
 import "./App.css";
 
 function App() {
   return (
-    <>
-      <h1>React Sidebar Component</h1>
-    </>
+    <div className="main">
+      <Sidebar />
+      <div className="container">
+        <h1>Main Content</h1>
+      </div>
+    </div>
   );
 }
 
