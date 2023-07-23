@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Dashboard",
+        "icon": "bi bi-speedometer2",
+        "path": "/"
+    },
+
+    {
+        "title": "Reports",
+        "icon": "bi bi-files",
+        "path": "/Reports"
+    },
+
+    {
+        "title": "Team",
+        "icon": "bi bi-people",
+        "path": "/Team"
+    },
+
+    {
+        "title": "Settings",
+        "icon": "bi bi-gear",
+        "path": "/Settings"
+    },
+
+    {
+        "title": "Log Out",
+        "icon": "bi bi-box-arrow-right",
+        "path": "/LogOut"
+    }
+    
+]

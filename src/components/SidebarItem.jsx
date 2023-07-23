@@ -1,12 +1,12 @@
 import React from "react";
 
-function SidebarItem() {
+function SidebarItem({ item }) {
   return (
     <div className="sidebar-item">
       <div className="sidebar-title">
         <span>
-          <i className="bi bi-speedometer2"></i>
-          Dashboard
+          {item.icon && <i className={item.icon}></i>}
+          {item.title}
         </span>
       </div>
     </div>
