@@ -1,6 +1,6 @@
 # React Sidebar Component
 
-![React Sidebar Screenshot](Sidebar-README-image.jpg)
+![React Sidebar Screenshot]((https://github.com/SKenzler/sidebar-component/blob/master/Sidebar-README-image.jpg?raw=true)
 
 ## About The Project
 
