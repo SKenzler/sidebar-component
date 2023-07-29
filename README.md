@@ -1,6 +1,6 @@
 # React Sidebar Component
 
-![React Sidebar Image](/main/Sidebar-README-image.jpg)
+![React Sidebar Screenshot](Sidebar-README-image.jpg)
 
 ## About The Project
 
